@@ -10,7 +10,7 @@
 <br />
 
 - 🔭 I just launched my Youtube Channel: [CodeWithLakshit][website]
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I aim for full immersion in as many fields and projects as possible. This is why I am into AI: it's the great denominator that will add to every field.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play cricket and also love to participate in programming contest
