@@ -6,7 +6,7 @@
 
 <br />
 
-### I'm a Data Science | IOT | Artificial Intelligence | Machine Learning Trainee!!
+### I'm a Data Science | IOT | Artificial Intelligence | Machine Learning Trainee & a Web Developer!!
 <br />
 
 - 🔭 I just launched my Youtube Channel: [CodeWithLakshit][website]
