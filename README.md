@@ -58,7 +58,8 @@
 
 ---
 
-
+[luxzira]: https://luxzira.com
+[businotics]: https://businotics.com
 [website]: https://www.youtube.com/channel/UCQT77kyktWeh66SOfzC3AzQ/featured
 [twitter]: https://twitter.com/lakshit_28
 [youtube]: https://www.youtube.com/channel/UCQT77kyktWeh66SOfzC3AzQ/featured
