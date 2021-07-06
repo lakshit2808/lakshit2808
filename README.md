@@ -1,4 +1,4 @@
-### Hi there, I'm Lakshit - aka [CodeWithLakshit][website] 👋
+### Hi there, I'm Lakshit - aka [CodeWithLakshit][website] 👋 & Founder, CEO at Businotic and LuxZira
 <br />
 
 [![Linkedin](https://img.shields.io/badge/linkedin-lakshit2808-blue)](https://www.linkedin.com/in/lakshit2808/)
@@ -6,13 +6,13 @@
 
 <br />
 
-### I'm a Data Science | IOT | Artificial Intelligence | Machine Learning Trainee & a Web Developer!!
+### I'm a Data Science | Artificial Intelligence | Machine Learning Trainee | Web & Application Developer!!
 <br />
 
 - 🔭 I just launched my Youtube Channel: [CodeWithLakshit][website]
 - ⚡ I aim for full immersion in as many fields and projects as possible. This is why I am into AI: it's the great denominator that will add to every field.
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 <br />
 
