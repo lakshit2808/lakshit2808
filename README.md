@@ -7,10 +7,12 @@
 
 ### I'm a Data Science | Artificial Intelligence | Machine Learning Trainee | Web & Application Developer!!
 <br />
+
 - 🔭 I just launched my Youtube Channel: [CodeWithLakshit][website]
 - ⚡ I aim for full immersion in as many fields and projects as possible. This is why I am into AI: it's the great denominator that will add to every field.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
+
 <br />
 
 ### Connect with me:
