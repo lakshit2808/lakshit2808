@@ -15,6 +15,8 @@
 
 <br />
 
+<a href="https://app.daily.dev/lakshit"><img src="https://api.daily.dev/devcards/b53e27869862454687dc49a6270691f1.png?r=8cv" width="400" alt="Lakshit's Dev Card"/></a>
+
 ### Connect with me:
 
 
