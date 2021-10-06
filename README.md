@@ -17,6 +17,10 @@
 
 <a href="https://app.daily.dev/lakshit"><img src="https://api.daily.dev/devcards/b53e27869862454687dc49a6270691f1.png?r=8cv" width="400" alt="Lakshit's Dev Card"/></a>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshit2808&show_icons=true&locale=en&layout=compact" alt="lakshit2808" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshit2808&show_icons=true&locale=en" alt="lakshit2808" /></p>
+
 ### Connect with me:
 
 
@@ -47,12 +51,12 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 <br />
 <br />
-
+<!-- 
 <details>
   <summary>GitHub Stats</summary>
 
   <img align="left" alt="Lakshit's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=lakshit2808&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-</details>
+</details> -->
 
 ---
 
