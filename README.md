@@ -12,12 +12,6 @@
 - ⚡ I aim for full immersion in as many fields and projects as possible. This is why I am into AI: it's the great denominator that will add to every field.
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2021 Goals: Contribute more to Open Source projects
-
-<br />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshit2808&show_icons=true&locale=en" alt="lakshit2808" /></p>
-
-<!-- <a href="https://app.daily.dev/lakshit"><img src="https://api.daily.dev/devcards/b53e27869862454687dc49a6270691f1.png?r=348" width="400" alt="Lakshit's Dev Card"/></a> -->
   <a href="https://api.daily.dev/get?r=lakshit" target="_blank">
     <img
       width="256"
@@ -25,6 +19,13 @@
       src="https://api.daily.dev/devcards/b53e27869862454687dc49a6270691f1.png"
     />
   </a>
+<br />
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshit2808&show_icons=true&locale=en" alt="lakshit2808" /></p>
+
+<!-- <a href="https://app.daily.dev/lakshit"><img src="https://api.daily.dev/devcards/b53e27869862454687dc49a6270691f1.png?r=348" width="400" alt="Lakshit's Dev Card"/></a> -->
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshit2808&show_icons=true&locale=en&layout=compact" alt="lakshit2808" /></p>
 
 <br /><br /><br /><br /><br /><br /><br /><br />
