@@ -17,8 +17,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshit2808&show_icons=true&locale=en" alt="lakshit2808" /></p>
 
-<a href="https://app.daily.dev/lakshit"><img src="https://api.daily.dev/devcards/b53e27869862454687dc49a6270691f1.png?r=348" width="400" alt="Lakshit's Dev Card"/></a>
-
+<!-- <a href="https://app.daily.dev/lakshit"><img src="https://api.daily.dev/devcards/b53e27869862454687dc49a6270691f1.png?r=348" width="400" alt="Lakshit's Dev Card"/></a> -->
+  <a href="https://api.daily.dev/get?r=lakshit" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/b53e27869862454687dc49a6270691f1.png"
+    />
+  </a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshit2808&show_icons=true&locale=en&layout=compact" alt="lakshit2808" /></p>
 
 <br /><br /><br /><br /><br /><br /><br /><br />
