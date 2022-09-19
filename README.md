@@ -1,4 +1,4 @@
-### Hi there, I'm Lakshit - aka [CodeWithLakshit][website] 👋 & Founder, CEO at [Businotic][businotics] and [LuxZira][luxzira]
+### Hi there, I'm Lakshit - aka [CodeWithLakshit][website] 👋
 <br />
 
 [![Linkedin](https://img.shields.io/badge/linkedin-lakshit2808-blue)](https://www.linkedin.com/in/lakshit2808/)
