@@ -16,7 +16,6 @@
 ### 👨‍💻 About Me
 
 - 🔭 Currently working on **High-Frequency Quantitative Trading Systems**
-- 🚀 Founder & CEO at **[Optimus Expert](https://optimusexpert.com/)** — building next-gen algorithmic trading platforms
 - 👯 Open to collaboration on **HFT Systems** and **MVP Development**
 - 💬 Ask me about **Algorithmic Trading, Full-Stack Development, and FinTech Startups**
 - 📫 Reach me at: **lakshitkanwal@outlook.com**
